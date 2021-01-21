@@ -1,4 +1,3 @@
-# Tristan Portfolio
 
 # Project 1: Effect of Education on Health
 
